@@ -1,15 +1,25 @@
-### Date created
-Include the date you created this project and README file.
+# "Explore US Bikeshare Data"
 
-### Project Title
-Replace the Project Title
+### Date created : 06/06/2020
+### Created By: SHUBHAM KUMAR ANAND
 
 ### Description
-Describe what your project is about and what it does
+I Use Python to understand U.S. bikeshare data. Calculate statistics and build an interactive environment where a user chooses the data and filter for a dataset to analyze.
 
 ### Files used
-Include the files used
+
+    chicago.csv
+    new_york_city
+    washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+     
+	This project is part of Udacity Progamming for Data Science Nanodegree Program.
+
+
+###Requirements
+
+    Python 3.7.4
+    Pandas 1.0.1
+    Numpy 1.18.1
 
